@@ -5,7 +5,7 @@ This project was built with anime lovers in mind, it generates random quotes fro
 
 [Link to project](https://anime-quotes-gen.netlify.app)
 
-Image	![Anime-Gen](Anime Quotes Generator/anime.png)
+![Anime-Gen](https://github.com/specialyas/100Devs/blob/main/Anime%20Quotes%20Generator/anime.png?raw=true)
 
 ## How it's made ##
 
