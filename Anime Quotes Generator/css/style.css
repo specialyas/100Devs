@@ -71,3 +71,14 @@ button{
   color: white;
 }
 
+@media screen and (max-width: 480px){
+  section{
+    width: 100%;
+  }
+  main{
+    display: block;
+    padding: 10px;
+    width: 100%;
+  }
+}
+
